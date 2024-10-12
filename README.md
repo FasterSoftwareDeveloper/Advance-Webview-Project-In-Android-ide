@@ -97,7 +97,7 @@ To change the default web URL, modify the `strings.xml` file:
 1. Navigate to `res/values/strings.xml` in your Android project.
 2. Locate the entry for the default URL:
    ```xml
-   <string name="default_web_url">https://your-default-url.com</string>
+   <string name="webview_url">https://your-default-url.com</string>
    ```
 3. Update the URL to your desired address.
 
