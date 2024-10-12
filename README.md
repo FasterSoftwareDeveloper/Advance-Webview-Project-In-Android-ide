@@ -173,4 +173,4 @@ Contributions to **Advance WebView** are welcome! To contribute:
 
 ## 👨‍💻 Developed by Faster Software Developer
 
-Thank you for your interest in the **Advance WebView** project! We hope you enjoy using and contributing to it. [Subcribe My Youtube Channel](https://developer.android.com/studio).
+Thank you for your interest in the **Advance WebView** project! We hope you enjoy using and contributing to it. [Subcribe My Youtube Channel](https://www.youtube.com/@FasterSoftwareDeveloper/videos).
